@@ -1,0 +1,23 @@
+footer {
+    text-align: center;
+    padding: 1em;
+}
+body {
+    background-color: pink;
+    text-align: center;
+}
+header:hover {
+    color: white;
+    background-color: pink;
+}
+
+img {
+    width: 10%;
+    height: 10%;
+}
+main {
+    font-size: 22px;
+}
+#quote {
+    color: white;
+}
