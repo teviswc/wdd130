@@ -6,11 +6,13 @@ nav, footer {
     padding: 10px;
 }
 a {
+    padding: 25px;
     font-size: 1.5em;
     color: white;
     margin : 40px
 }
 h1 {
+    margin: 50px 0;
     text-align: center;
     color: steelblue;
 }
@@ -35,10 +37,17 @@ footer {
     color: steelblue;
 }
 footer p {
+    padding: 25px;
     font-size: 20px;
     margin: 20px;
 }
 a:hover {
     background-color: white;
     color: steelblue;
+}
+nav{
+    padding: 25px;
+}
+body{
+    margin: 0;
 }
