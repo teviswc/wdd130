@@ -1,0 +1,23 @@
+img {
+    padding: 0;
+    margin: 0;
+    width: 35%;
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+main {
+    width: 35%;
+    margin: 0;
+    background-color: darkgray;
+    
+}
+.desk, .logo, .person {
+    border: 10px solid grey;
+    margin: 0;
+    width: 200px;
+    border-radius: 50%;
+    padding: 0;
+}
